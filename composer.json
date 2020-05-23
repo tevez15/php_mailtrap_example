@@ -1,0 +1,13 @@
+{
+    "name": "lenovo/php_mailtrap_example",
+    "description": "Example how to use Mailtrap in PHP",
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    },
+    "authors": [
+        {
+            "name": "Diogo Esteves",
+            "email": "diogo.tevez.15@gmail.com"
+        }
+    ]
+}
