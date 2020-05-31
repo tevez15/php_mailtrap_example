@@ -1,6 +1,6 @@
 {
-    "name": "lenovo/php_mailtrap_example",
-    "description": "Example how to use Mailtrap in PHP",
+    "name": "diogoesteves/php_mailtrap_example",
+    "description": "Envio de emails em PHP com Mailtrap",
     "require": {
         "phpmailer/phpmailer": "^6.1"
     },
